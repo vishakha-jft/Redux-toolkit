@@ -1,0 +1,14 @@
+.allusers{
+    display: flex;
+    flex-direction: column;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+    background: #dfb0c8;
+    width: 180px;
+    height: 100px;
+    margin :10px;
+
+}
